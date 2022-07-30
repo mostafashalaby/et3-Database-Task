@@ -2,7 +2,7 @@
 This is my work for the 4th task (Database Task) for the et3 Graduate Internship 2022 program. I opted to use Access as my database engine of choice, and that file can be found as "Database1.accdb". My queries can also be found as .txt files. Queries "Query1a.txt" and "Query1b.txt" are both viable solutions for Query 1, but in the case of duplicate maxes, Query1a shows all the duplicated with Query1b only shows one of them.
 
 # How to run
-Open "Database1.accdb" and select the queries in order to view the results of them.
+Open "Database1.accdb" and select the queries in order to view the results of them. Screenshots of the queries can be found in the "Screenshots" Folder.
 
 
 # Notes
