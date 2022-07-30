@@ -1,0 +1,4 @@
+SELECT *
+FROM DrinkMenu
+WHERE Calories < (SELECT avg(Calories) 
+                           FROM DrinkMenu);

@@ -1,0 +1,4 @@
+SELECT *
+FROM DrinkMenu
+WHERE Calories = (SELECT max(Calories) 
+                           FROM DrinkMenu);

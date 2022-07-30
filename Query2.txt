@@ -1,0 +1,3 @@
+SELECT Beverage_category, avg(Calories) AS Average_Calories
+FROM DrinkMenu
+GROUP BY Beverage_category;
